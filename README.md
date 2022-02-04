@@ -1,6 +1,6 @@
 # Hity_Youtube_Download
 
-Um app de download de vídeos do YouTube.
+Um app para download de videos do Youtube
 
 Criado por O_Hioty#8332.
 
