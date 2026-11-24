@@ -1,0 +1,9 @@
+# Visual Studio / VB.NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+packages/
